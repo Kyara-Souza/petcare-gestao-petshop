@@ -75,7 +75,7 @@ O projeto foi desenvolvido como atividade da disciplina de Desenvolvimento de Si
 ## 🛠️ Tecnologias Utilizadas
 
 * HTML5
-* CSS3
+* CSS
 * JavaScript
 * Firebase Authentication
 * Firebase Firestore
